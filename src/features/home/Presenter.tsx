@@ -1,0 +1,75 @@
+export default function Main() {
+    return (
+        <main>
+            <div className="b-example-divider"></div>
+
+            <div className="flex-shrink-0 p-3 bg-white overflow-auto">
+                <div>1</div>
+                <div>1</div>
+                <div>1</div>
+                <div>1</div>
+                <div>1</div>
+                <div>1</div>
+                <div>1</div>
+                <div>1</div>
+                <div>1</div>
+                <div>1</div>
+                <div>1</div>
+                <div>1</div>
+                <div>1</div>
+                <div>1</div>
+                <div>1</div>
+                <div>1</div>
+                <div>1</div>
+                <div>1</div>
+                <div>1</div>
+                <div>1</div>
+                <div>1</div>
+                <div>1</div>
+                <div>1</div>
+                <div>1</div>
+                <div>1</div>
+                <div>1</div>
+                <div>1</div>
+                <div>1</div>
+                <div>1</div>
+                <div>1</div>
+                <div>1</div>
+                <div>1</div>
+                <div>1</div>
+                <div>1</div>
+                <div>1</div>
+                <div>1</div>
+                <div>1</div>
+                <div>1</div>
+                <div>1</div>
+                <div>1</div>
+                <div>1</div>
+                <div>1</div>
+                <div>1</div>
+                <div>1</div>
+                <div>1</div>
+                <div>1</div>
+                <div>1</div>
+                <div>1</div>
+                <div>1</div>
+                <div>1</div>
+                <div>1</div>
+                <div>1</div>
+                <div>1</div>
+                <div>1</div>
+                <div>1</div>
+                <div>1</div>
+                <div>1</div>
+                <div>1</div>
+                <div>1</div>
+                <div>1</div>
+                <div>1</div>
+                <div>1</div>
+                <div>1</div>
+                <div>1</div>
+                <div>aka</div>
+            </div>
+        </main>
+    )
+}
